@@ -1,0 +1,13 @@
+.env
+auth.json
+auth.lock
+**/sessions/
+**/logs/
+**/cache/
+**/__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+*.log
